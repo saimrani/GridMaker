@@ -1,3 +1,5 @@
+//Adding more design and more color functionallity into the given grid maker 
+
 let colorSelected = '#ffffff';
 
 // Adds a row
